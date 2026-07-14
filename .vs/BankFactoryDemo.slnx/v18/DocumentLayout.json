@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\bankfactorydemo\\bankfactorydemo\\concretefactory\\savingfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|solutionrelative:bankfactorydemo\\concretefactory\\savingfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\bankfactorydemo\\bankfactorydemo\\abstractproduct\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|solutionrelative:bankfactorydemo\\abstractproduct\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\bankfactorydemo\\bankfactorydemo\\concreteproducts\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|solutionrelative:bankfactorydemo\\concreteproducts\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\bankfactorydemo\\bankfactorydemo\\abstractfactory\\iaccountfactorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|solutionrelative:bankfactorydemo\\abstractfactory\\iaccountfactorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\bankfactorydemo\\bankfactorydemo\\concreteproducts\\salaryaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|solutionrelative:bankfactorydemo\\concreteproducts\\salaryaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\bankfactorydemo\\bankfactorydemo\\concreteproducts\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|solutionrelative:bankfactorydemo\\concreteproducts\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\bankfactorydemo\\bankfactorydemo\\factoryprovider\\iaccountfactoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|solutionrelative:bankfactorydemo\\factoryprovider\\iaccountfactoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\bankfactorydemo\\bankfactorydemo\\concretefactory\\salaryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|solutionrelative:bankfactorydemo\\concretefactory\\salaryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\bankfactorydemo\\bankfactorydemo\\concretefactory\\currentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|solutionrelative:bankfactorydemo\\concretefactory\\currentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\bankfactorydemo\\bankfactorydemo\\factoryprovider\\accountfactoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|solutionrelative:bankfactorydemo\\factoryprovider\\accountfactoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\bankfactorydemo\\bankfactorydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|solutionrelative:bankfactorydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\bankfactorydemo\\bankfactorydemo\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|solutionrelative:bankfactorydemo\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\bankfactorydemo\\bankfactorydemo\\accounttypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C71837-9B32-1AD9-47C2-D8BC51508B37}|BankFactoryDemo\\BankFactoryDemo.csproj|solutionrelative:bankfactorydemo\\accounttypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\ConcreteProducts\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "BankFactoryDemo\\ConcreteProducts\\CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\ConcreteProducts\\CurrentAccount.cs",
+              "RelativeToolTip": "BankFactoryDemo\\ConcreteProducts\\CurrentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:04:46.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalaryAccount.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\ConcreteProducts\\SalaryAccount.cs",
+              "RelativeDocumentMoniker": "BankFactoryDemo\\ConcreteProducts\\SalaryAccount.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\ConcreteProducts\\SalaryAccount.cs",
+              "RelativeToolTip": "BankFactoryDemo\\ConcreteProducts\\SalaryAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:06:54.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAccountFactoryProvider.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\FactoryProvider\\IAccountFactoryProvider.cs",
+              "RelativeDocumentMoniker": "BankFactoryDemo\\FactoryProvider\\IAccountFactoryProvider.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\FactoryProvider\\IAccountFactoryProvider.cs",
+              "RelativeToolTip": "BankFactoryDemo\\FactoryProvider\\IAccountFactoryProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:21:20.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountFactoryProvider.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\FactoryProvider\\AccountFactoryProvider.cs",
+              "RelativeDocumentMoniker": "BankFactoryDemo\\FactoryProvider\\AccountFactoryProvider.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\FactoryProvider\\AccountFactoryProvider.cs",
+              "RelativeToolTip": "BankFactoryDemo\\FactoryProvider\\AccountFactoryProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:25:27.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\AbstractProduct\\Account.cs",
+              "RelativeDocumentMoniker": "BankFactoryDemo\\AbstractProduct\\Account.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\AbstractProduct\\Account.cs",
+              "RelativeToolTip": "BankFactoryDemo\\AbstractProduct\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:01:10.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\ConcreteProducts\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "BankFactoryDemo\\ConcreteProducts\\SavingAccount.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\ConcreteProducts\\SavingAccount.cs",
+              "RelativeToolTip": "BankFactoryDemo\\ConcreteProducts\\SavingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:03:09.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAccountFactorys.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\AbstractFactory\\IAccountFactorys.cs",
+              "RelativeDocumentMoniker": "BankFactoryDemo\\AbstractFactory\\IAccountFactorys.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\AbstractFactory\\IAccountFactorys.cs",
+              "RelativeToolTip": "BankFactoryDemo\\AbstractFactory\\IAccountFactorys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:10:37.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavingFactory.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\ConcreteFactory\\SavingFactory.cs",
+              "RelativeDocumentMoniker": "BankFactoryDemo\\ConcreteFactory\\SavingFactory.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\ConcreteFactory\\SavingFactory.cs",
+              "RelativeToolTip": "BankFactoryDemo\\ConcreteFactory\\SavingFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:12:27.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CurrentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\ConcreteFactory\\CurrentFactory.cs",
+              "RelativeDocumentMoniker": "BankFactoryDemo\\ConcreteFactory\\CurrentFactory.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\ConcreteFactory\\CurrentFactory.cs",
+              "RelativeToolTip": "BankFactoryDemo\\ConcreteFactory\\CurrentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:14:38.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalaryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\ConcreteFactory\\SalaryFactory.cs",
+              "RelativeDocumentMoniker": "BankFactoryDemo\\ConcreteFactory\\SalaryFactory.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\ConcreteFactory\\SalaryFactory.cs",
+              "RelativeToolTip": "BankFactoryDemo\\ConcreteFactory\\SalaryFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:17:42.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\Program.cs",
+              "RelativeDocumentMoniker": "BankFactoryDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\Program.cs",
+              "RelativeToolTip": "BankFactoryDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:58:45.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\AccountService.cs",
+              "RelativeDocumentMoniker": "BankFactoryDemo\\AccountService.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\AccountService.cs",
+              "RelativeToolTip": "BankFactoryDemo\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:45:32.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\AccountTypeEnum.cs",
+              "RelativeDocumentMoniker": "BankFactoryDemo\\AccountTypeEnum.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\BankFactoryDemo\\BankFactoryDemo\\AccountTypeEnum.cs",
+              "RelativeToolTip": "BankFactoryDemo\\AccountTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:09:09.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
